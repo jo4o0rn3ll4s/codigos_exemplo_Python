@@ -1,7 +1,7 @@
-per = ['nome é:', 'a idade é:', 'sou téc de:']
-res = [['josé', 'claudio', 'joão'],
+per = ['Meu nome é:', 'Minha idade é:', 'Sou técnico de:']
+res = [['José', 'Claudio', 'João'],
        ['08', '19', '21'],
-       ['ad', 'el', 'ed']]
+       ['AD', 'EL', 'ED']]
 gab = (3, 2, 2)
 resp = list()
 nota = int(0)
